@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-Welcome
+## test
+{% include demo_graph.html %}
+{% include demo_table.html %}
